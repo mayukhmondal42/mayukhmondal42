@@ -94,13 +94,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mayukhmondal42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayukhmondal42&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhmondal42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayukhmondal42&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayukhmondal42&theme=tokyonight" />
 </div>
 
 <br/>
