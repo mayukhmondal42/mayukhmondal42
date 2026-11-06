@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -80,7 +79,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,postman,vscode" />
 </p>
 
 ## 🔥 What I Do
@@ -92,12 +91,6 @@
 - 🧩 **DSA & Problem Solving** - C++, Java, Python
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayukhmondal42&theme=tokyonight" />
-</div>
-
-<br/>
 
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayukhmondal42&theme=tokyonight" />
