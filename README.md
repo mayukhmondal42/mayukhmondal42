@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mayukh%20Mondal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
   <h1 align="center">Hi 👋, I'm Mayukh Mondal</h1>
-  <h3 align="center">Full Stack Developer | MERN Stack | B.Tech IT 🇮🇳</h3>
-  <p>Turning ideas into real-world web applications.</p>
+  <h3 align="center">Passionate about MERN Stack, Full Stack Development & AI-powered Web Apps</h3>
 </div>
 
 ## 💫 About Me
