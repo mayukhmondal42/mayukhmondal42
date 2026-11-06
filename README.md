@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mayukh%20Mondal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
   <h1 align="center">Hi 👋, I'm Mayukh Mondal</h1>
-  <h3 align="center">Passionate about MERN Stack, Full Stack Development & AI-powered Web Apps</h3>
+  <h3 align="center">Full Stack Developer | MERN Stack | B.Tech IT 🇮🇳</h3>
+  <p>Turning ideas into real-world web applications.</p>
 </div>
 
 ## 💫 About Me
@@ -92,13 +93,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhmondal42&theme=radical&hide_border=false&border_radius=10" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhmondal42&background=0D1117&border=FF6B00&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=FFFFFF&hide_border=false&border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayukhmondal42&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayukhmondal42&bg_color=0D1117&color=FF8C00&line=FF6B00&point=FF6B00&area=true&hide_border=true" />
 </div>
 
 <div align="center">
