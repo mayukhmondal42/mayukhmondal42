@@ -29,7 +29,7 @@
 
 <p>
   <a href="https://leetcode.com/u/mayukhmondal42/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/mayukhmondal42"><img src="https://img.shields.io/badge/CodeChef-745_★-5B4636?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/mayukhmondal42"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/profile/mayukhmokq3f"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -79,7 +80,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,linux,postman,vscode" />
 </p>
 
 ## 🔥 What I Do
