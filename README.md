@@ -14,6 +14,7 @@
 - 🎓 4th Year B.Tech in **Information Technology**
 - 🏫 **Jalpaiguri Government Engineering College**
 - 💻 **Full Stack Developer** | MERN Stack Specialist
+- 🌐 **Portfolio:** https://portfolio-eight-ruddy-emp8b7f42u.vercel.app/
 - 📫 How to reach me **mayukhmondal42@gmail.com**
 - 🤝 Open to **Internships, Collaboration & Freelance Projects**
 
@@ -22,6 +23,7 @@
 <p>
   <a href="https://github.com/mayukhmondal42"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mayukh-mondal42"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-eight-ruddy-emp8b7f42u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:mayukhmondal42@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
