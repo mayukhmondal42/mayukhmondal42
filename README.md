@@ -99,7 +99,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! Let's build something amazing together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" />
 </div>
