@@ -3,8 +3,6 @@
   <h1 align="center">Hi 👋, I'm Mayukh Mondal</h1>
   <h3 align="center">Full Stack Developer | MERN Stack | B.Tech IT 🇮🇳</h3>
   <p>Turning ideas into real-world web applications. Building with MERN, AI & Clean Code.</p>
-  <img src="https://komarev.com/ghpvc/?username=mayukhmondal42&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/mayukhmondal42?label=Followers&style=flat&color=0e75b6" />
 </div>
 
 ## 💫 About Me
