@@ -17,8 +17,6 @@
 - 📫 How to reach me **mayukhmondal42@gmail.com**
 - 🤝 Open to **Internships, Collaboration & Freelance Projects**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukhmondal42&theme=tokyonight" alt="mayukhmondal42" /></a> </p>
-
 ## 🌐 Connect With Me
 
 <p>
@@ -88,18 +86,19 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayukhmondal42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhmondal42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mayukhmondal42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhmondal42&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhmondal42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayukhmondal42&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhmondal42&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
