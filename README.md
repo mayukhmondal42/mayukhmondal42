@@ -93,13 +93,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayukhmondal42&theme=tokyonight" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayukhmondal42&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhmondal42&theme=tokyonight&hide_border=true" />
 </div>
 
