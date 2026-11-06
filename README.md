@@ -25,6 +25,14 @@
   <a href="mailto:mayukhmondal42@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+## 🏆 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/mayukhmondal42/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/mayukhmondal42"><img src="https://img.shields.io/badge/CodeChef-745_★-5B4636?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/mayukhmokq3f"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
 ## 💻 Tech Stack
 
 ### 🚀 Languages
