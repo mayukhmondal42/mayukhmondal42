@@ -97,12 +97,6 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhmondal42&background=0D1117&border=FF6B00&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=FFFFFF&hide_border=false&border_radius=10" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayukhmondal42&bg_color=0D1117&color=FF8C00&line=FF6B00&point=FF6B00&area=true&hide_border=true" />
-</div>
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile! Let's build something amazing together.
